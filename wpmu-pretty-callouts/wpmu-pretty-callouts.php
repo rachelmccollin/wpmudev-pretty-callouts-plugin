@@ -1,7 +1,7 @@
 <?php 
 /* Plugin Name: Pretty Callouts Plugin
 Plugin URI: https://github.com/rachelmccollin/wpmudev-pretty-callouts-plugin
-Description: This plugin provides a shortcode you wrap arounf your text to create a pretty callout box in the flow of your post's content.
+Description: This plugin provides a shortcode you wrap around your text to create a pretty callout box in the flow of your post's content. Use align="right", align="left" or align="center" to add alignment.
 Version: 1.0
 Author: Rachel McCollin
 Author URI: http://rachelmccollin.com
